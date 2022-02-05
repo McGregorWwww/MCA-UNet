@@ -1,3 +1,3 @@
-# MCA-UNet
+# CAU-Net
 
-Code for "MCA-UNet: Multi-scale Cross Co-Attentional U-Net for Automatic Segmentation in Medical Imaging".
+Code for "Segmentation in Diabetic Retinopathy with a cross co-attention U-Net".
